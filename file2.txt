@@ -1,3 +1,5 @@
 ini file 2
 
-edit file 2
+edit file 2, edit lagi
+
+tambah baris
